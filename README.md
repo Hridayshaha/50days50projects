@@ -1,6 +1,6 @@
 # 50 Days 50 Projects
 
-- Image Expanding Cards
+- [Image Expanding Cards](https://github.com/Hridayshaha/50days50projects/tree/main/image-expanding-cards)
 
 ## 🚀 About Me
 
