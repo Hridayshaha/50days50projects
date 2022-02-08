@@ -1,5 +1,5 @@
 /* CUSTOM FONT   */
-@import url("https://fonts.googleapis.com/css2?family=Teko:wght@400;300;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500&display=swap");
 
 :root {
   --bg: #f6f7fb;
@@ -65,9 +65,9 @@ h1 {
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
 }
-.progress {
+.progress#bar {
   position: absolute;
-  width: 60%;
+  width: 10%;
   background-color: var(--blue);
   height: 4px;
   top: 50%;
